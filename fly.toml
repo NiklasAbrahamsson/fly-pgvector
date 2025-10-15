@@ -3,8 +3,8 @@
 # See https://fly.io/docs/reference/configuration/ for information about how to use this file.
 #
 
-app = 'konsultmatch-database'
-primary_region = 'sjc'
+app = 'konsultmatch-db'
+primary_region = 'arn'
 
 [build]
 
